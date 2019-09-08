@@ -1,2 +1,2 @@
-# Hello-World
+# Python
 This is just another repository
